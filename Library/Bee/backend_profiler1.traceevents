@@ -1,0 +1,694 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1675067914753380, "dur":1258, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067914754644, "dur":77, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1675067914754728, "dur":17, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1675067914754745, "dur":642, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1675067914755417, "dur":550, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067914755967, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915480648, "dur":319, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915480968, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915480978, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915480979, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915480984, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915480986, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915480990, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915480992, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915480996, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915480997, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481005, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481006, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481010, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481012, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481017, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481018, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481023, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481024, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481029, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481030, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481034, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481036, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481040, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481042, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481046, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481047, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481052, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481053, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481058, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481059, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481064, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481065, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481071, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481089, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915481092, "dur":1589, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1675067914755384, "dur":588, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067914755973, "dur":4463, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067914760447, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1675067914760448, "dur":153, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067914760606, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1675067914760608, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067914760663, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067914761488, "dur":5496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1675067914766987, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1675067914767099, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067914767127, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067914767164, "dur":157755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1675067914924967, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067914925040, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067914925068, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067914925072, "dur":36238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067914961357, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067914961436, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067914961470, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067914961475, "dur":62828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067915024357, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067915024472, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067915024515, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067915024523, "dur":33422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067915058004, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067915058139, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067915058253, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067915058265, "dur":23729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067915082047, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067915082180, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067915082225, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067915082233, "dur":43218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067915125503, "dur":1092, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067915126596, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067915126650, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067915126658, "dur":10471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067915137186, "dur":26280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067915163467, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067915163534, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067915163543, "dur":1183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067915164779, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067915164831, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067915164876, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067915164914, "dur":173906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1675067915338878, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1675067915338937, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1675067915338947, "dur":1623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1675067915340621, "dur":140026, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067914755404, "dur":578, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067914755982, "dur":4470, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067914760452, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1675067914760734, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067914760816, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067914923318, "dur":26316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1675067914949702, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1675067914949924, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067914949973, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067914949983, "dur":18561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1675067914968601, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1675067914968730, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067914968771, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067914968782, "dur":61486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1675067915030315, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1675067915030428, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067915030466, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067915030475, "dur":47382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1675067915077905, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1675067915078003, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067915078044, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067915078053, "dur":19507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1675067915097609, "dur":87129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1675067915184739, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067915184793, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067915184802, "dur":1375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1675067915186223, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1675067915186271, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067915186367, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1675067915186373, "dur":176821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1675067915363250, "dur":117399, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067914755387, "dur":589, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067914755976, "dur":4474, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067914760451, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1675067914760624, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067914760706, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067914765489, "dur":5416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1675067914770958, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067914771054, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067914771091, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067914771358, "dur":3979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067914775397, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1675067914775523, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067914775570, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067914775886, "dur":155243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1675067914931192, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067914931358, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067914931422, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067914931433, "dur":29277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067914960775, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067914960876, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067914960944, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067914960951, "dur":67802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067915028810, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067915028930, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067915028976, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067915028987, "dur":25132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067915054173, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067915054282, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067915054325, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067915054333, "dur":23628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067915078015, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067915078121, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067915078166, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067915078172, "dur":26180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067915104409, "dur":76597, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067915181006, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067915181067, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067915181075, "dur":2636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067915183757, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067915183803, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067915183840, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067915183847, "dur":40735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067915224643, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067915224701, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067915224743, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1675067915224752, "dur":128097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1675067915352904, "dur":127741, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067914755404, "dur":583, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067914755988, "dur":4461, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067914760449, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1675067914760635, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067914760735, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067914766306, "dur":158581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1675067914924956, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067914925051, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067914925089, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067914925094, "dur":35651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067914960801, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067914960901, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067914960945, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067914960952, "dur":36941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067914997942, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067914998033, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067914998073, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067914998080, "dur":23757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067915021888, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067915022017, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067915022058, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067915022067, "dur":43216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067915065352, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067915065482, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067915065528, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067915065537, "dur":92114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067915157713, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067915157771, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067915157821, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067915157831, "dur":56278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067915214170, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067915214230, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067915214277, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1675067915214284, "dur":136941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1675067915351306, "dur":129365, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914755452, "dur":538, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914755991, "dur":4469, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914760460, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1675067914760619, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914760677, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914763230, "dur":7365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1675067914770645, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1675067914770735, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914770772, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914770778, "dur":2407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1675067914773240, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1675067914773362, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914773399, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914773434, "dur":150325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1675067914923828, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067914923952, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914924016, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914924022, "dur":23352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067914947422, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067914947543, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914947584, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914947593, "dur":42103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067914989749, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067914989838, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914989876, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067914989881, "dur":26303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915016236, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915016351, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067915016388, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067915016396, "dur":54640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915071087, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915071177, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067915071298, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067915071307, "dur":24278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915095641, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915095734, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067915095829, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067915095836, "dur":25532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915121427, "dur":1062, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915122490, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067915122546, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067915122557, "dur":1886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915124492, "dur":56777, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915181269, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067915181328, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067915181336, "dur":1270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915182659, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915182708, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067915182747, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067915182753, "dur":102881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915285687, "dur":65860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915351556, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1675067915351567, "dur":1327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1675067915352941, "dur":127721, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067914755487, "dur":507, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067914755994, "dur":4447, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067914760447, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1675067914760608, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067914760694, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067914763428, "dur":5521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1675067914769009, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1675067914769148, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067914769217, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067914769225, "dur":155739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1675067914925007, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067914925085, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067914925112, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067914925117, "dur":35041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067914960213, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067914960324, "dur":205, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067914960535, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067914960545, "dur":57384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915017987, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915018111, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915018151, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915018159, "dur":21559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915039771, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915039858, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915039898, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915039904, "dur":30255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915070225, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915070371, "dur":212, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915070589, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915070603, "dur":24406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915095078, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915095206, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915095253, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915095261, "dur":33148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915128461, "dur":1189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915129650, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915129714, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915129724, "dur":1227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915131000, "dur":1147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915132147, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915132207, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915132245, "dur":2742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915135044, "dur":2014, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915137059, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915137243, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915137252, "dur":2044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915139352, "dur":3880, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915143233, "dur":2342, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915145583, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915145593, "dur":12041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915157691, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915157778, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915157829, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1675067915157834, "dur":226168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1675067915384038, "dur":96615, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067914755517, "dur":480, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067914755997, "dur":4464, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067914760461, "dur":325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1675067914760786, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067914760839, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067914942977, "dur":48744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1675067914991820, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1675067914991948, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067914991992, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067914991999, "dur":34311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1675067915026376, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1675067915026504, "dur":710, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067915027222, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067915027233, "dur":49330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1675067915076624, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1675067915076738, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067915076833, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067915076841, "dur":26117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1675067915103013, "dur":92431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1675067915195445, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067915195522, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067915195531, "dur":8183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1675067915203770, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1675067915203830, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067915203872, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1675067915203880, "dur":190794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1675067915394714, "dur":85937, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067914755573, "dur":427, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067914756000, "dur":4453, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067914760454, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1675067914760696, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067914760762, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067914771039, "dur":153092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1675067914924206, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067914924291, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067914924326, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067914924332, "dur":36826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067914961206, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067914961290, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067914961355, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067914961361, "dur":28035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067914989454, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067914989579, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067914989628, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067914989637, "dur":42206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067915031914, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067915032037, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067915032075, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067915032084, "dur":48624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067915080772, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067915080899, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067915080947, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067915080990, "dur":47519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067915128558, "dur":49040, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067915177600, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067915177703, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067915177714, "dur":2238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067915180010, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067915180061, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067915180102, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067915180110, "dur":33968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067915214130, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067915214179, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067915214219, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067915214227, "dur":51106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067915265388, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067915265438, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067915265542, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1675067915265550, "dur":158931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1675067915424515, "dur":56133, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1675067914755611, "dur":391, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1675067914756002, "dur":4438, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1675067914760447, "dur":584, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1675067914761031, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1675067914761062, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1675067914944668, "dur":62498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1675067915007226, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1675067915007404, "dur":459, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1675067915007869, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1675067915007880, "dur":44558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1675067915052496, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1675067915052597, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1675067915052636, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1675067915052642, "dur":23356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1675067915076065, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1675067915076217, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1675067915076336, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1675067915076346, "dur":127975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1675067915204377, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1675067915204426, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1675067915204466, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1675067915204472, "dur":177036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1675067915381546, "dur":99117, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067914755643, "dur":362, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067914756005, "dur":4451, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067914760457, "dur":252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1675067914760709, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067914760813, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067914772821, "dur":2729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1675067914775614, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1675067914775712, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067914775809, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067914776322, "dur":147652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1675067914924034, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1675067914924143, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067914924190, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067914924196, "dur":37346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1675067914961596, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1675067914961688, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067914961781, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067914961787, "dur":134219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1675067915096058, "dur":73804, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1675067915169863, "dur":405, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915170274, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915170284, "dur":2631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1675067915172964, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":10, "ts":1675067915173014, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915173051, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915173058, "dur":74952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":10, "ts":1675067915248064, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1675067915248115, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915248155, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915248163, "dur":45762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1675067915293978, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":10, "ts":1675067915294151, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915294205, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915294983, "dur":1091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":10, "ts":1675067915296122, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1675067915296184, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915296268, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1675067915298037, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":10, "ts":1675067915298085, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915298090, "dur":11120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":10, "ts":1675067915309260, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":10, "ts":1675067915309313, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915309320, "dur":11048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":10, "ts":1675067915320436, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":10, "ts":1675067915320508, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915320521, "dur":3485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":10, "ts":1675067915324062, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1675067915324125, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915324139, "dur":1310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1675067915325499, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1675067915325554, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915325589, "dur":1152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1675067915326783, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1675067915326961, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915327000, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915327007, "dur":1053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1675067915328108, "dur":1139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":10, "ts":1675067915329247, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915329310, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915329318, "dur":1360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":10, "ts":1675067915330727, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/level2" }}
+,{ "pid":12345, "tid":10, "ts":1675067915330778, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915330785, "dur":1705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/level2" }}
+,{ "pid":12345, "tid":10, "ts":1675067915332636, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/level0.resS" }}
+,{ "pid":12345, "tid":10, "ts":1675067915332722, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915332729, "dur":6246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/level0.resS" }}
+,{ "pid":12345, "tid":10, "ts":1675067915339028, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/boot.config" }}
+,{ "pid":12345, "tid":10, "ts":1675067915339207, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915339247, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1675067915339254, "dur":2050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/boot.config" }}
+,{ "pid":12345, "tid":10, "ts":1675067915341357, "dur":139309, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1675067914755660, "dur":348, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1675067914756009, "dur":4444, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1675067914760453, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1675067914760625, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1675067914760716, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1675067914765101, "dur":7003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1675067914772156, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1675067914772255, "dur":668, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1675067914772930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1675067914773039, "dur":150738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1675067914923840, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1675067914923952, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1675067914924006, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1675067914924012, "dur":38454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1675067914962520, "dur":139556, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1675067915102077, "dur":660, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1675067915102748, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1675067915102762, "dur":2685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1675067915105493, "dur":254703, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1675067915360197, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1675067915360301, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1675067915360311, "dur":1817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1675067915362166, "dur":118492, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067914755694, "dur":328, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067914756022, "dur":4426, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067914760448, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1675067914760673, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067914760757, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067914767362, "dur":8104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1675067914775517, "dur":147434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067914922953, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067914923013, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067914923108, "dur":89380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067915012542, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067915012680, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915012736, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915012747, "dur":24425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067915037231, "dur":318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067915037550, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915037606, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915037620, "dur":21525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067915059197, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067915059316, "dur":3825, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915063154, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915063168, "dur":31863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067915095096, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067915095206, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915095251, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915095261, "dur":44191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067915139506, "dur":29561, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067915169069, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915169184, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915169197, "dur":2784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067915172047, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067915172111, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915172178, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915172188, "dur":159147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1675067915331390, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/level1" }}
+,{ "pid":12345, "tid":12, "ts":1675067915331446, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915331452, "dur":3434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/level1" }}
+,{ "pid":12345, "tid":12, "ts":1675067915334939, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":12, "ts":1675067915334998, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1675067915335004, "dur":4062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":12, "ts":1675067915339117, "dur":141540, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067914755702, "dur":324, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067914756026, "dur":4419, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067914760447, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1675067914760625, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067914760724, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067914765542, "dur":7615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1675067914773239, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067914773368, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067914773436, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067914773441, "dur":172832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067914946338, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067914946483, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067914946559, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067914946569, "dur":17645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067914964260, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067914964357, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067914964394, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067914964400, "dur":33424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067914997877, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067914997999, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067914998042, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067914998051, "dur":41292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067915039399, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067915039522, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067915039564, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067915039573, "dur":31295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067915070925, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067915071031, "dur":265, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067915071300, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067915071308, "dur":32890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067915104255, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067915104374, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067915104420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067915104428, "dur":68226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067915172711, "dur":255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067915172967, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067915173017, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067915173024, "dur":74992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067915248065, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067915248117, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067915248156, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1675067915248163, "dur":232419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":13, "ts":1675067915480618, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":13, "ts":1675067915480619, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067914755728, "dur":301, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067914756030, "dur":4416, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067914760449, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1675067914760656, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067914760740, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067914766874, "dur":8205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1675067914775141, "dur":147926, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt.exe" }}
+,{ "pid":12345, "tid":14, "ts":1675067914923068, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067914923138, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067914923147, "dur":66685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt.exe" }}
+,{ "pid":12345, "tid":14, "ts":1675067914989880, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1675067914989981, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067914990030, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067914990035, "dur":59885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1675067915049976, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1675067915050103, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067915050142, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067915050151, "dur":45412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1675067915095625, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1675067915095718, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067915095830, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067915095837, "dur":30307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1675067915126193, "dur":36125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1675067915162320, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067915162439, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067915162452, "dur":1676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1675067915164253, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":14, "ts":1675067915164312, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067915164369, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067915164376, "dur":133308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":14, "ts":1675067915297737, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1675067915297788, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067915297795, "dur":6160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1675067915304008, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":14, "ts":1675067915304166, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067915304176, "dur":4683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":14, "ts":1675067915308922, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1675067915308994, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067915309004, "dur":22252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1675067915331313, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/level1.resS" }}
+,{ "pid":12345, "tid":14, "ts":1675067915331372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067915331379, "dur":1918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/level1.resS" }}
+,{ "pid":12345, "tid":14, "ts":1675067915333356, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/level0" }}
+,{ "pid":12345, "tid":14, "ts":1675067915333435, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1675067915333441, "dur":5606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/level0" }}
+,{ "pid":12345, "tid":14, "ts":1675067915339100, "dur":141550, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067914755744, "dur":291, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067914756035, "dur":4419, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067914760458, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1675067914760640, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067914760728, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067914765913, "dur":159112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1675067914925070, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1675067914925137, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067914925165, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067914925170, "dur":98290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1675067915023516, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1675067915023633, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067915023678, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067915023686, "dur":28415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1675067915052160, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1675067915052369, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067915052417, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067915052427, "dur":92373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1675067915144859, "dur":1116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1675067915145976, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067915146030, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067915146038, "dur":1213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1675067915147303, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1675067915147354, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067915147397, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067915147434, "dur":85132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1675067915232624, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":15, "ts":1675067915232742, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067915232784, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1675067915232793, "dur":109407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":15, "ts":1675067915342255, "dur":138409, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067914755766, "dur":273, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067914756039, "dur":4418, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067914760457, "dur":335, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1675067914760792, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067914760834, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067914924199, "dur":18483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1675067914942749, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1675067914942883, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067914942930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067914942941, "dur":20938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1675067914963942, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1675067914964061, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067914964104, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067914964114, "dur":18515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1675067914982688, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1675067914982808, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067914982856, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067914982864, "dur":88256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1675067915071180, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1675067915071315, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067915071382, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067915071419, "dur":23814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1675067915095285, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1675067915095373, "dur":407, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067915095786, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067915095792, "dur":133086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1675067915228937, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":16, "ts":1675067915228990, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067915229035, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1675067915229044, "dur":133775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/TVZ/Razvoj raunalnih igara/Projekt/buildano/Projekt_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":16, "ts":1675067915362868, "dur":117776, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1675067915484270, "dur":1773, "ph":"X", "name": "ProfilerWriteOutput" }
+,
